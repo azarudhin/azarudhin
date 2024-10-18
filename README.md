@@ -1,6 +1,6 @@
 <!-- **Azarudhin/Azarudhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Hello_world, Azarudhin N here 👋
+# Hello world, Azarudhin N here 👋
 
 # 💫 About Me:
 🔭 I'm currently working on a project similar to Google Docs <br>⚡ I like to watch anime that gives <b>goosebumps</b>!
